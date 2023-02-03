@@ -1,6 +1,3 @@
-# frontend_mentor
-This is a repository for 'Frontend Mentor' Code Challenges.
+Hello my name is Tracy 
+I'm using this code challenge to kick of my motivation for practicing html and css
 
-This is my first public repository on GitHub.
-
-I want to become a web developer.
